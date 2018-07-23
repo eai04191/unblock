@@ -10,6 +10,7 @@ Unblock all the user is blocking.
 pip install requests requests-oauthlib
 ```
 
+Rename `config.py.example` to `config.py`. Add your credential.
 
 ## Usage
 
